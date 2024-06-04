@@ -1,10 +1,10 @@
 {
-  "name": "Pack Name",
-  "description": "Use this field to describe the pack.",
-  "author": "GitHubUsername",
+  "name": "The Walking Dead: Season Two - Main Theme Music Extended",
+  "description": "music mp3 downloaded from WalkmanPlays on youtube",
+  "author": "sjs1983",
   "version": "v1.0",
   "manifest_version": 2,
-  "music": false,
+  "music": true,
   "ignore": [],
   "mappings": {}
 }
